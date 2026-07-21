@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0261_000-X.yaml, hash: 'sha256:13453ba51fb6e9bbeacf744178a14859af58ac6bff4bcd9492c8a7c4b4e4cf31'}
+  - {seq: 0, filename: KR6q0261_000-X.yaml, hash: 'sha256:b97d6ef89c9a3b301fa38f22599af0d850d49cb9be6f6e015350cfec68b815e0'}
   - {seq: 1, filename: KR6q0261_001-X.yaml, hash: 'sha256:7393ef4c1414df15066cd6f4d9e926a673b88e29820f18645e8a7d0ea26e426d'}
   - {seq: 2, filename: KR6q0261_002-X.yaml, hash: 'sha256:cabcbb52bdcdfe92cb23a00ddcf353b39d39dd454662ead63b860ec143d02ca4'}
   - {seq: 3, filename: KR6q0261_003-X.yaml, hash: 'sha256:353b75f8a4656aa9f81f45b9c2b329e94510fd77aad51bb0183e21b0d39aef55'}
@@ -69,7 +69,7 @@ assets:
   - {seq: 47, filename: KR6q0261_047-X.yaml, hash: 'sha256:5d1eaae9b138ea7c3ec1a4e7b4d76bc1e237682371f0dc3aa85962c3a180c8f3'}
   - {seq: 48, filename: KR6q0261_048-X.yaml, hash: 'sha256:5d53a055551d07fbde5d27bcb35afcf8d7dbfc7e26203b6cf549d127d2e87159'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0261_000-X.markers.yaml, hash: 'sha256:288ca108de44448772e1a50d5dc3b4ded47a71f7b51280d7749be24e01ae9060'}
+  - {seq: 0, role: markers, filename: assets/KR6q0261_000-X.markers.yaml, hash: 'sha256:e38f17f3653b828d741f8b8aeb9c2f10a14e8fc54b028197bfa4b1a5dbbbff47'}
   - {seq: 1, role: markers, filename: assets/KR6q0261_001-X.markers.yaml, hash: 'sha256:a8b7dec4534434ec94dd35ff685e079ae1c5b0d5e7621e370b969fb56a661938'}
   - {seq: 2, role: markers, filename: assets/KR6q0261_002-X.markers.yaml, hash: 'sha256:58df1e0f1f1e12e95761141b5684e85380683d2d4e2680c1109307a162866d13'}
   - {seq: 3, role: markers, filename: assets/KR6q0261_003-X.markers.yaml, hash: 'sha256:bb63a8f32a29b0307d04f5c6d82023dce0639b6e78cbab6e182f168a1ac0e752'}
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0261_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1315-A 重刻古尊宿語錄序
@@ -8789,4 +8789,4 @@ table_of_contents:
   label: 佛照禪師奏對錄
   type: mulu
   level: 1
-hash: sha256:f1e40070dde1af22ad22a065a71b221213d4877f9af54dc181c2d4c02d661a0a
+hash: sha256:51eef59aef2bd0e9623e2bd16a4ef6789fdeb8d73ed7b6f725577738504b3202
